@@ -11,3 +11,6 @@ Jenkins pipeline test repository for DORA metrics.
 
 ## Commit 1
 - Pipeline stages updated
+
+## Commit 2
+- Jenkinsfile stage notes added
