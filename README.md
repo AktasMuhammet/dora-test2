@@ -8,3 +8,6 @@ Jenkins pipeline test repository for DORA metrics.
 2. **Build** - Build aşaması
 3. **Test** - Test aşaması
 4. **Deploy** - Deploy aşaması
+
+## Commit 1
+- Pipeline stages updated
